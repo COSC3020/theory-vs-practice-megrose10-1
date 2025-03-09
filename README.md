@@ -27,7 +27,7 @@ Part 3:
 3. If this program is multithreaded, locks can happen, which means that one process is paused until the other process happens. This can cause time errors.
 
 Citations:
-I used lecture notes and slides to base my answers on. I wasn't fully sure if my formula was correct so I tried to search online to see what a binary search tree formula would be but resulted in trying to put log base 1000 in the calculator to check if the formula was right. I worked with Olivia, Ashlyn, and Cole(Nathanial). I was unsure on how to find the growth rate for question 2 on why the time was different from my guess of 9.9 seconds and the given time 5 seconds, so I asked chatGPT which showed me finding the ratio of the two runtimes finds the growth rate. I also asked for help from the TA in lab and office hours. I also watched this video on caches https://www.youtube.com/watch?v=bPvW4uAYj_A.
+I used lecture notes and slides to base my answers on. I wasn't fully sure if my formula was correct so I tried to search online to see what a binary search tree formula would be but resulted in trying to put log base 1000 in the calculator to check if the formula was right. I worked with Olivia, Ashlyn, and Cole(Nathanial). I was unsure on how to find the growth rate for question 2 on why the time was different from my guess of 9.9 seconds and the given time 5 seconds, so I asked chatGPT which showed me finding the ratio of the two runtimes finds the growth rate. I also asked for help from the TA in lab and office hours. I also watched this video on caches https://www.youtube.com/watch?v=bPvW4uAYj_A. https://cvw.cac.cornell.edu/parallel/efficiency/synchronization-overhead, talks about synchronizaiton overhead.
 
 I submitted this work Fall 2024.
 
